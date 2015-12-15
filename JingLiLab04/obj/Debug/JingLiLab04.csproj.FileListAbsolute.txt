@@ -1,0 +1,2 @@
+C:\Users\devil\Desktop\CMPE1600\JingLiLab04\JingLiLab04\bin\Debug\JingLiLab04.exe.config
+C:\Users\devil\Desktop\CMPE1600\JingLiLab04\JingLiLab04\obj\Debug\JingLiLab04.csprojResolveAssemblyReference.cache
